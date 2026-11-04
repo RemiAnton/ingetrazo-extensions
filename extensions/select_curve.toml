@@ -1,11 +1,11 @@
 id = "select_curve"
-version = "1.0.0"
+version = "1.0.1"
 author = "Remi Clinton"
 author_url = "https://github.com/RemiAnton"
 license = "MIT"
 repository = "https://github.com/RemiAnton/ingetrazo-select-curve"
-download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.0/select_curve.py"
-sha256 = "b20bdc08711fa3a499c073314b94ca83eda0658b814e24eaddd6959c0f3dc86e"
+download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.1/select_curve.py"
+sha256 = "76f198403cf5bac8323e7e4d2e07d23fb5363f600f731ea66fcd7edbc80b73c6"
 ingetrazo = "0.5.5"
 tags = ["drawing", "productivity"]
 
