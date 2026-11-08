@@ -6,7 +6,7 @@ license = "MIT"
 repository = "https://github.com/RemiAnton/ingetrazo-select-curve"
 download = "https://raw.githubusercontent.com/RemiAnton/ingetrazo-select-curve/v1.0.1/select_curve.py"
 sha256 = "76f198403cf5bac8323e7e4d2e07d23fb5363f600f731ea66fcd7edbc80b73c6"
-ingetrazo = "0.5.5"
+ingetrazo = "0.6.0"
 tags = ["drawing", "productivity"]
 
 [name]
